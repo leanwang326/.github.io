@@ -46,6 +46,11 @@ Education
 
 
 
+# Academic Service
+
++ **Teaching Assistant**:
+  - Probability Theory and Statistics (A) (2023 Spring, PKU)
+
 # Awards
 
 - Best Long Paper Award, EMNLP, 2023
