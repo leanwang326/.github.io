@@ -48,3 +48,4 @@ Education
 
 ## Awards
 
+- Best Long Paper Award, EMNLP, 2023
