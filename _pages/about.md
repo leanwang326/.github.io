@@ -15,19 +15,19 @@ Hi, I am a PhD student at [LANCO](https://lancopku.github.io) group, supervised 
 
 
 Education
-------
+======
 + PhD Student, Peking University, 2023-Now
 + B.S. in Intelligence Science and Technology (Summa Cum Laude), Peking University, 2019-2023.
 
 
 
-## Internship
+# Internship
 
 + Wechat AI, Research Intern, Dec.2022-Now
 
   
 
-## Preprints
+# Preprints
 
 (# denotes Equal Contribution)
 
@@ -38,7 +38,7 @@ Education
 
 
 
-## Publication
+# Publication
 
 - **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**
   Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
@@ -46,6 +46,6 @@ Education
 
 
 
-## Awards
+# Awards
 
 - Best Long Paper Award, EMNLP, 2023
