@@ -42,7 +42,7 @@ Education
   ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>** [[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
 
 - **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun
-  **NeurIPS ENLSP 2022 workshop (spotlight)**[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD]
+  **NeurIPS ENLSP 2022 workshop (spotlight)**[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
 
 
 
