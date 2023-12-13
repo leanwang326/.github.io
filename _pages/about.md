@@ -31,18 +31,16 @@ Education
 
 (# denotes Equal Contribution)
 
-- **Towards Codable Text Watermarking for Large Language Models**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun
-  [[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
+- **Towards Codable Text Watermarking for Large Language Models**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>[[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
 
 
 
 # Publication
 
 - **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**<br/>**Lean Wang**, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
-  ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>** [[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
+  ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>**<br/>[[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
 
-- **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun
-  **NeurIPS ENLSP 2022 workshop (spotlight)**[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
+- **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun<br/>**NeurIPS ENLSP 2022 workshop (spotlight)**<br/>[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
 
 
 
