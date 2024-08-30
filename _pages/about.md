@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at [LANCO](https://lancopku.github.io) group, supervised by Prof. [Xu Sun](https://xusun26.github.io). My research interests lie in interpreting LLMs' working mechanisms under various scenes. Previously, I completed my bachelor’s degree at Peking University.
+Hi, I am a PhD student at [LANCO](https://lancopku.github.io) group, supervised by Prof. [Xu Sun](https://xusun26.github.io). I once studied mechanistic interpretation, yet I am now focusing on improving the MoE LLM model.
 
 
 
@@ -23,7 +23,7 @@ Education
 
 # Internship
 
-+ Wechat AI, Research Intern, Dec. 2022 - Now
++ DeepSeek-AI, Research Intern, Jan. 2024 - Now
 
   
 
