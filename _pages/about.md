@@ -31,13 +31,13 @@ Education
 
 # Preprints
 
-(# denotes Equal Contribution)
-
 - **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>[[arxiv](https://arxiv.org/abs/2408.15664)]
 
 
 
 # Selected Publications
+
+(# denotes Equal Contribution)
 
 - **Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>***ICLR 2024*** [[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
 
