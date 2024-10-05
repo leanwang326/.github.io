@@ -39,10 +39,9 @@ Education
 
 # Selected Publications
 
-- **Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>***ICLR 2024***[[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
+- **Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>***ICLR 2024*** [[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
 
-- **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**<br/>**Lean Wang**, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
-  ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>**<br/>[[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
+- **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**<br/>**Lean Wang**, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun<br/>***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>** [[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
 
 
 
