@@ -33,7 +33,7 @@ Education
 
 (# denotes Equal Contribution)
 
-- **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>[[arxiv](https://arxiv.org/abs/2408.15664)
+- **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>[[arxiv](https://arxiv.org/abs/2408.15664)]
 
 
 
@@ -43,8 +43,6 @@ Education
 
 - **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**<br/>**Lean Wang**, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
   ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>**<br/>[[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
-
-%- **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun<br/>**NeurIPS ENLSP 2022 workshop (spotlight)**<br/>[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
 
 
 
