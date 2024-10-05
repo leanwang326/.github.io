@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lean Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Lean Wang(王乐安)"
-description              : &description "First-year Ph.D. student in Peking Univesity"
+description              : &description "Second-year Ph.D. student in Peking Univesity"
 url                      : https://leanwang326.github.io/.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leanwang326.github.io/.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lean Wang"
   avatar           : "profile.png"
-  bio              : "First-year Ph.D. student in Peking Univesity, interested in LLM interpretation."
+  bio              : "Second-year Ph.D. student in Peking Univesity, dedicated to improving LLM."
   location         : "Beijing, China"
   employer         :
   pubmed           :
