@@ -10,7 +10,9 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at [LANCO](https://lancopku.github.io) group, supervised by Prof. [Xu Sun](https://xusun26.github.io). I once studied mechanistic interpretation, yet I am now focusing on improving the MoE LLM model.
+Hi, I am Lean Wang, a PhD student at the Institute of Computational Linguistics (ICL), Peking University. I am in the [LANCO](https://lancopku.github.io) group, supervised by Prof. [Xu Sun](https://xusun26.github.io). 
+
+I am now dedicated to creating a better LLM! I once studied mechanistic interpretation, yet I am now focusing on designing a better MoE model.
 
 
 
@@ -31,16 +33,18 @@ Education
 
 (# denotes Equal Contribution)
 
-- **Towards Codable Text Watermarking for Large Language Models**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>[[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
+- **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>[[arxiv](https://arxiv.org/abs/2408.15664)
 
 
 
-# Publication
+# Selected Publications
+
+- **Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**<br/>**Lean Wang#**, Wenkai Yang#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun<br/>***ICLR 2024***[[arxiv](https://arxiv.org/abs/2307.15992), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
 
 - **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**<br/>**Lean Wang**, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
   ***EMNLP 2023*** **<span style="color: red;">Best Long Paper Award</span>**<br/>[[arxiv](https://arxiv.org/abs/2305.14160), [code](https://github.com/lancopku/label-words-are-anchors)]
 
-- **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun<br/>**NeurIPS ENLSP 2022 workshop (spotlight)**<br/>[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
+%- **Gradient Knowledge Distillation for Pre-trained Language Models**<br/>**Lean Wang**, Lei Li, Xu Sun<br/>**NeurIPS ENLSP 2022 workshop (spotlight)**<br/>[[arxiv](https://arxiv.org/abs/2211.01071), [code](https://github.com/lancopku/GKD)]
 
 
 
@@ -49,6 +53,9 @@ Education
 
 + **Teaching Assistant**:
   - Probability Theory and Statistics (A) (2023 Spring, PKU)
+
++ **As a Reviewer**
+  - ARR Reviewer
 
 # Awards
 
