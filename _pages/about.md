@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, I am Lean Wang, a PhD student at the Institute of Computational Linguistics (ICL), Peking University. I am in the [LANCO](https://lancopku.github.io) group, supervised by Prof. [Xu Sun](https://xusun26.github.io). 
 
-I am now dedicated to creating a better LLM! I once studied mechanistic interpretation, yet I am now focusing on designing a better MoE model.
+I am now dedicated to creating a better LLM! I once studied mechanistic interpretation, yet I am now focusing on improving the foundation language model.
 
 
 
@@ -31,7 +31,7 @@ Education
 
 # Preprints
 
-- **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>[[arxiv](https://arxiv.org/abs/2408.15664)]
+- **Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts**<br/>**Lean Wang**, Huazuo Gao, Chenggang Zhao, Xu Sun, Damai Dai<br/>**Adopted by DeepSeek V3** [[arxiv](https://arxiv.org/abs/2408.15664)]
 
 
 
